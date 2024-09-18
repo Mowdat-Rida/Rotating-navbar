@@ -1,1 +1,1 @@
-  [Before output]
+  [Before output]()
